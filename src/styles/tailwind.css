@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@import "./tokens/colors.css";
+@import "./tokens/spacing.css";
+@import "./tokens/radius.css";
+@import "./tokens/typography.css";
+
+@source "../**/*.{js,jsx,ts,tsx,mdx}";
+@source "../../.storybook/**/*.{js,jsx,ts,tsx,mdx}";
