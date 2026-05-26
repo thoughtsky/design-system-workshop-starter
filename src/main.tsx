@@ -4,9 +4,9 @@ import "./styles/tailwind.css";
 
 function App() {
   return (
-    <main className="min-h-screen bg-background p-8 text-foreground">
+    <main className="min-h-screen bg-white p-8 text-black">
       <h1 className="text-2xl font-semibold">Design System Workshop</h1>
-      <p className="mt-2 max-w-prose text-sm text-secondary-foreground">
+      <p className="mt-2 max-w-prose text-sm text-gray-600">
         This starter is intentionally empty. Components will be generated during the workshop.
       </p>
     </main>
