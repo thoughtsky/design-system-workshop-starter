@@ -1,1 +1,4 @@
 @import "tailwindcss";
+
+@source "../**/*.{js,jsx,ts,tsx,mdx}";
+@source "../../.storybook/**/*.{js,jsx,ts,tsx,mdx}";
